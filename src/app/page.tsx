@@ -18,6 +18,7 @@ export default function Home() {
       </div>
   );
 }
+
 // git add .
 // git commit -m "Updated feature or fixed bug"
 // git push origin main

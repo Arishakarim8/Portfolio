@@ -1,6 +1,5 @@
 export default function Hero() {
     return (
-      // <section id="home" className="bg-gradient-to-r from-blue-500 to-purple-600 text-white">
         <div className="container mx-auto px-6 py-20  text-center">
           <h1 className="text-4xl md:text-6xl text-white font-bold mb-4">
             Hi, I'm <span className="text-[#F4D35E]">Arisha Karim</span>
@@ -13,7 +12,6 @@ export default function Hero() {
             View My Work
           </a>
         </div>
-      // </section>
     );
   }
   
