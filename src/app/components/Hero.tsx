@@ -1,8 +1,9 @@
 export default function Hero() {
     return (
         <div className="container mx-auto px-6 py-20  text-center">
+
           <h1 className="text-4xl md:text-6xl text-white font-bold mb-4">
-            Hi, I'm <span className="text-[#F4D35E]">Arisha Karim</span>
+            Hi, I&apos;m <span className="text-[#F4D35E]">Arisha Karim</span>
           </h1>
           <p className="text-lg md:text-2xl mb-6">
             A Passionate Developer Specializing in Frontend and Backend Development.
@@ -12,6 +13,6 @@ export default function Hero() {
             View My Work
           </a>
         </div>
-    );
+    )
   }
   
